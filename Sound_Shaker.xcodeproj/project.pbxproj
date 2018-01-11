@@ -14,6 +14,13 @@
 		AF259B442007F4C200FEFCE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF259B422007F4C200FEFCE3 /* LaunchScreen.storyboard */; };
 		AF259B4F2007F4C200FEFCE3 /* Sound_ShakerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259B4E2007F4C200FEFCE3 /* Sound_ShakerTests.swift */; };
 		AF259B5A2007F4C300FEFCE3 /* Sound_ShakerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF259B592007F4C300FEFCE3 /* Sound_ShakerUITests.swift */; };
+		AF259B6E2007F6AE00FEFCE3 /* bottle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B672007F6AD00FEFCE3 /* bottle.mp3 */; };
+		AF259B6F2007F6AE00FEFCE3 /* camera.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B682007F6AD00FEFCE3 /* camera.mp3 */; };
+		AF259B702007F6AE00FEFCE3 /* woodPecker.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B692007F6AD00FEFCE3 /* woodPecker.mp3 */; };
+		AF259B712007F6AE00FEFCE3 /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B6A2007F6AD00FEFCE3 /* click.mp3 */; };
+		AF259B722007F6AE00FEFCE3 /* glass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B6B2007F6AD00FEFCE3 /* glass.mp3 */; };
+		AF259B732007F6AE00FEFCE3 /* ice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B6C2007F6AD00FEFCE3 /* ice.mp3 */; };
+		AF259B742007F6AE00FEFCE3 /* laughingBird.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF259B6D2007F6AE00FEFCE3 /* laughingBird.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +54,13 @@
 		AF259B552007F4C300FEFCE3 /* Sound_ShakerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sound_ShakerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF259B592007F4C300FEFCE3 /* Sound_ShakerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sound_ShakerUITests.swift; sourceTree = "<group>"; };
 		AF259B5B2007F4C300FEFCE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF259B672007F6AD00FEFCE3 /* bottle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bottle.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B682007F6AD00FEFCE3 /* camera.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = camera.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B692007F6AD00FEFCE3 /* woodPecker.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = woodPecker.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B6A2007F6AD00FEFCE3 /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = click.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B6B2007F6AD00FEFCE3 /* glass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = glass.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B6C2007F6AD00FEFCE3 /* ice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ice.mp3; sourceTree = SOURCE_ROOT; };
+		AF259B6D2007F6AE00FEFCE3 /* laughingBird.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = laughingBird.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +114,13 @@
 				AF259B392007F4C200FEFCE3 /* AppDelegate.swift */,
 				AF259B3B2007F4C200FEFCE3 /* ViewController.swift */,
 				AF259B3D2007F4C200FEFCE3 /* Main.storyboard */,
+				AF259B672007F6AD00FEFCE3 /* bottle.mp3 */,
+				AF259B682007F6AD00FEFCE3 /* camera.mp3 */,
+				AF259B6A2007F6AD00FEFCE3 /* click.mp3 */,
+				AF259B6B2007F6AD00FEFCE3 /* glass.mp3 */,
+				AF259B6C2007F6AD00FEFCE3 /* ice.mp3 */,
+				AF259B6D2007F6AE00FEFCE3 /* laughingBird.mp3 */,
+				AF259B692007F6AD00FEFCE3 /* woodPecker.mp3 */,
 				AF259B402007F4C200FEFCE3 /* Assets.xcassets */,
 				AF259B422007F4C200FEFCE3 /* LaunchScreen.storyboard */,
 				AF259B452007F4C200FEFCE3 /* Info.plist */,
@@ -232,9 +253,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF259B742007F6AE00FEFCE3 /* laughingBird.mp3 in Resources */,
+				AF259B712007F6AE00FEFCE3 /* click.mp3 in Resources */,
+				AF259B722007F6AE00FEFCE3 /* glass.mp3 in Resources */,
 				AF259B442007F4C200FEFCE3 /* LaunchScreen.storyboard in Resources */,
+				AF259B732007F6AE00FEFCE3 /* ice.mp3 in Resources */,
 				AF259B412007F4C200FEFCE3 /* Assets.xcassets in Resources */,
+				AF259B6E2007F6AE00FEFCE3 /* bottle.mp3 in Resources */,
 				AF259B3F2007F4C200FEFCE3 /* Main.storyboard in Resources */,
+				AF259B6F2007F6AE00FEFCE3 /* camera.mp3 in Resources */,
+				AF259B702007F6AE00FEFCE3 /* woodPecker.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
